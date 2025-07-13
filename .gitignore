@@ -1,0 +1,9 @@
+# Nix result symlinks
+result
+result-*
+
+# direnv
+.direnv/
+
+# macOS
+.DS_Store
