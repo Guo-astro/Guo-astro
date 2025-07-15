@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# github_profile_makeover.sh — v0.0.1 — one‑stop GitHub CLI script to automate the "stunning profile" checklist
+# github_profile_makeover.sh — v0.0.2 — v0.0.1 — one‑stop GitHub CLI script to automate the "stunning profile" checklist
 # -----------------------------------------------------------------------------
 # ⚠️  Prerequisites
 #   1. GitHub CLI (`gh`) ≥ v2.5 installed & authenticated (`gh auth login`)
