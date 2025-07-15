@@ -50,6 +50,7 @@ read -r -d '' PROFILE_README_TEMPLATE <<'EOF' || true
 - 📡 **Dart**: [network_usage](https://pub.dev/packages/network_usage) - Network usage monitoring package
 - 🐍 **Python**: [tfp_causalimpact_customized](https://pypi.org/project/tfp-causalimpact-customized/) - Customized TensorFlow Probability CausalImpact
 - 📄 **NPM**: [react-pdf-transformer](https://www.npmjs.com/package/react-pdf-transformer) - React PDF transformation utilities
+- 🦀 **Rust**: [chaum_pedersen_auth](https://crates.io/crates/chaum_pedersen_auth) - Chaum-Pedersen zero-knowledge authentication protocol
 
 ### 🌟 Featured
 - 📰 **Featured Interview**: [My Story of a Deep-Tech Startup](https://cloud.google.com/blog/ja/topics/customers/optimind-the-appeal-of-gke-and-the-significance-of-certification/?hl=ja) - Google Cloud Blog
